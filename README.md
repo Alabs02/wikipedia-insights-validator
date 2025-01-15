@@ -16,7 +16,7 @@ Through this, the project demonstrates the potential of AI in modern problem-sol
 This project leverages a variety of powerful tools and frameworks:
 - **Node.js**: The backbone for server-side scripting and application logic.
 - **OpenAI API**: For querying and interacting with the GPT-based LLMs.
-- **xml2js**: For parsing and processing XML-based Wikipedia Dumps.
+- **sax**: For streaming, parsing and processing XML-based Wikipedia Dumps.
 - **dotenv**: For securely managing API keys and environment variables.
 - **fs**: Node.js File System module to handle dataset files.
 - **Wikipedia Dumps**: An open-source treasure trove of structured and unstructured knowledge.
